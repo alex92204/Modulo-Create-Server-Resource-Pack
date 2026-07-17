@@ -1,0 +1,15 @@
+{
+  "pack": {
+	"pack_format": 15,
+    "description": [
+		{
+			"text": "Server Resource Pack\n",
+			"color": "#da7825"
+		},
+		{
+			"text": "Modulo Create",
+			"color": "#d8b365"
+		}
+	]
+  }
+}
