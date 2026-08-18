@@ -1,5 +1,5 @@
 # Modulo Create Server Resource Pack
-- Please only use this to add custom models!
+- Please only use this to add custom models or sounds!
 - Commits will be applied and reloaded automatically!
 - A very basic example is provided so you can copy that.
 
